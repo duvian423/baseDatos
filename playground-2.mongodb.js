@@ -234,7 +234,6 @@ db.users.insertOne({
     email: "santiago@example.com",
     city: "barranquilla",
     country: "colombia",
-    salary: 00,
     age: 32,
     height: 180,
     weight: 140
